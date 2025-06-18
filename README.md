@@ -18,13 +18,13 @@
 - [📑 Índice](#-índice)
 - [📝 Descrição](#-descrição)
 - [🎯 Objetivo](#-objetivo)
+- [🗺️ Estrutura do Projeto](#️-estrutura-do-projeto)
+- [📊 Dataset](#-dataset)
 - [🔥 Atividades do Projeto](#-atividades-do-projeto)
   - [✅ **ATIV-04-ET-01 — Análise do Dataset**](#-ativ-04-et-01--análise-do-dataset)
   - [✅ **ATIV-04-ET-02 — Pesquisa de Métodos + Propostas**](#-ativ-04-et-02--pesquisa-de-métodos--propostas)
   - [✅ **ATIV-04-ET-03 — Metodologia, Resultados e Conclusões**](#-ativ-04-et-03--metodologia-resultados-e-conclusões)
 - [🧠 Pipeline do Projeto](#-pipeline-do-projeto)
-- [📊 Dataset](#-dataset)
-- [🗺️ Estrutura do Projeto](#️-estrutura-do-projeto)
 - [📑 Metodologia](#-metodologia)
 - [📈 Métricas de Avaliação](#-métricas-de-avaliação)
 - [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
@@ -51,6 +51,36 @@ O **Warp Waste Classification** é um projeto de Machine Learning que utiliza t�
 - Desenvolver modelos preditivos para classificar imagens de resíduos recicláveis.  
 - Contribuir para soluções de sustentabilidade e automação na gestão de resíduos.  
 - Aplicar técnicas de aprendizado de máquina e visão computacional.  
+
+---
+
+## 🗺️ Estrutura do Projeto
+
+```plaintext
+warp-waste-classification/
+├── data/              → Dados brutos (não incluídos no GitHub)
+│   └── README.md      → Instruções sobre como obter os dados
+├── docs/              → Documentação e apresentações
+├── notebooks/         → Notebooks de exploração, EDA, modelagem e análise
+├── outputs/           → Resultados, gráficos e modelos treinados
+├── src/               → Scripts Python (EDA, pré-processamento, modelagem)
+├── .gitignore         → Arquivos e pastas ignorados no versionamento
+├── LICENSE            → Licença MIT
+├── README.md          → Documentação do projeto (este arquivo)
+└── requirements.txt   → Dependências do projeto
+```
+
+---
+
+## 📊 Dataset
+
+- 📦 **Nome:** Warp Waste Recycling Plant Dataset  
+- 🔗 **Link:** [Kaggle - Warp Waste Recycling Plant Dataset](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)  
+
+**Descrição:**  
+O dataset contém imagens categorizadas de resíduos recicláveis, incluindo papel, metal, vidro, plástico, entre outros, utilizadas para treinamento, validação e teste de modelos de classificação de imagens.
+
+⚠️ As imagens não estão neste repositório. Para utilizar, faça o download no Kaggle e coloque na pasta `/data`.
 
 ---
 
@@ -87,36 +117,6 @@ B --> C[Modelagem com métodos da literatura]
 C --> D[Testes com melhorias e modelos próprios]
 D --> E[Análise de Resultados]
 E --> F[Conclusões e Entregas]
-```
-
----
-
-## 📊 Dataset
-
-- 📦 **Nome:** Warp Waste Recycling Plant Dataset  
-- 🔗 **Link:** [Kaggle - Warp Waste Recycling Plant Dataset](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)  
-
-**Descrição:**  
-O dataset contém imagens categorizadas de resíduos recicláveis, incluindo papel, metal, vidro, plástico, entre outros, utilizadas para treinamento, validação e teste de modelos de classificação de imagens.
-
-⚠️ As imagens não estão neste repositório. Para utilizar, faça o download no Kaggle e coloque na pasta `/data`.
-
----
-
-## 🗺️ Estrutura do Projeto
-
-```plaintext
-warp-waste-classification/
-├── data/              → Dados brutos (não incluídos no GitHub)
-│   └── README.md      → Instruções sobre como obter os dados
-├── docs/              → Documentação e apresentações
-├── notebooks/         → Notebooks de exploração, EDA, modelagem e análise
-├── outputs/           → Resultados, gráficos e modelos treinados
-├── src/               → Scripts Python (EDA, pré-processamento, modelagem)
-├── .gitignore         → Arquivos e pastas ignorados no versionamento
-├── LICENSE            → Licença MIT
-├── README.md          → Documentação do projeto (este arquivo)
-└── requirements.txt   → Dependências do projeto
 ```
 
 ---
