@@ -11,6 +11,8 @@
 
 <h1 align="center">♻️ Warp Waste Classification</h1>
 
+---
+
 ## 📑 Índice
 
 - [📑 Índice](#-índice)
