@@ -288,19 +288,19 @@ pip install -r requirements.txt
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
     </td>
-        <td align="center">
-      <a href="https://www.linkedin.com/in/usuario-6">
-        <img src="https://avatars.githubusercontent.com/u/usuario-6" width="115px;" alt="Mariana Angeli Profile Image"/><br>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mariana-angeli/">
+        <img src="https://avatars.githubusercontent.com/u/172328698?v=4" width="115px;" alt="Mariana Angeli Profile Image"/><br>
       </a>
       <sub>
           <b>Mariana Angeli</b>
          </sub>
     <br>
-        <a href="https://github.com/usuario-6">
+        <a href="https://github.com/marianaangeli">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br>
-        <a href="https://www.linkedin.com/in/usuario-6">
+        <a href="https://www.linkedin.com/in/mariana-angeli/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
     </td>
