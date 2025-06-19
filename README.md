@@ -257,18 +257,18 @@ pip install -r requirements.txt
         </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/usuario-4">
-        <img src="https://avatars.githubusercontent.com/u/usuario-4" width="115px;" alt="Iza Vieira Profile Image"/><br>
+      <a href="https://www.linkedin.com/in/iza-francine/">
+        <img src="https://avatars.githubusercontent.com/u/212177943?v=4" width="115px;" alt="Iza Vieira Profile Image"/><br>
       </a>
       <sub>
           <b>Iza Vieira</b>
          </sub>
     <br>
-        <a href="https://github.com/usuario-4">
+        <a href="https://github.com/iza1603francine">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br>
-        <a href="https://www.linkedin.com/in/usuario-4">
+        <a href="https://www.linkedin.com/in/iza-francine/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
     </td>
@@ -305,18 +305,18 @@ pip install -r requirements.txt
         </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/usuario-7">
-        <img src="https://avatars.githubusercontent.com/u/usuario-7" width="115px;" alt="Rodrigo Rocha Profile Image"/><br>
+      <a href="https://www.linkedin.com/in/rodrigo-rocha-19249170/">
+        <img src="https://avatars.githubusercontent.com/u/126805602?v=4" width="115px;" alt="Rodrigo Rocha Profile Image"/><br>
       </a>
       <sub>
           <b>Rodrigo Rocha</b>
          </sub>
     <br>
-        <a href="https://github.com/usuario-7">
+        <a href="https://github.com/Rodrigoldarocha">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br>
-        <a href="https://www.linkedin.com/in/usuario-7">
+        <a href="https://www.linkedin.com/in/rodrigo-rocha-19249170/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
     </td>
