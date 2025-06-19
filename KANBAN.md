@@ -80,3 +80,15 @@
 | C.03 | Atualizar o quadro Kanban                   | Manter o quadro Kanban atualizado, movendo as tarefas entre os status: Backlog → To Do → In Progress → Review/Test → Done.                                    | Alta       |
 
 ---
+
+## 📦 Entregáveis Finais
+
+- [ ] Dataset organizado e analisado
+- [ ] Modelos implementados (baseline e modelo próprio)
+- [ ] Avaliação dos modelos (métricas e análises)
+- [ ] Documentação completa no `/docs`
+- [ ] Slides da apresentação final
+- [ ] README.md atualizado
+- [ ] Link da branch correta enviado conforme solicitado
+
+---

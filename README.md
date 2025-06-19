@@ -24,7 +24,7 @@
   - [✅ **ATIV-04-ET-01 — Análise do Dataset**](#-ativ-04-et-01--análise-do-dataset)
   - [✅ **ATIV-04-ET-02 — Pesquisa de Métodos + Propostas**](#-ativ-04-et-02--pesquisa-de-métodos--propostas)
   - [✅ **ATIV-04-ET-03 — Metodologia, Resultados e Conclusões**](#-ativ-04-et-03--metodologia-resultados-e-conclusões)
-- [📌 Gestão e Progresso do Projeto — Kanban](#-gestão-e-progresso-do-projeto--kanban)
+- [📌 Gestão e Progresso do Projeto](#-gestão-e-progresso-do-projeto)
 - [🧠 Pipeline do Projeto](#-pipeline-do-projeto)
 - [📑 Metodologia](#-metodologia)
 - [📈 Métricas de Avaliação](#-métricas-de-avaliação)
@@ -109,13 +109,15 @@ O dataset contém imagens categorizadas de resíduos recicláveis, incluindo pap
 
 ---
 
-## 📌 Gestão e Progresso do Projeto — Kanban
+## 📌 Gestão e Progresso do Projeto
 
-O acompanhamento do progresso das atividades está documentado no nosso quadro Kanban:
+Acompanhe o planejamento, o progresso das atividades, etapas, prazos e status detalhado das tarefas acessando o Kanban do projeto.
 
-➡️ **Acesse o Kanban completo:** [KANBAN.md](./KANBAN.md)
-
-✔️ No Kanban estão organizadas as etapas, status de cada tarefa, responsáveis, datas previstas, entregas e progresso.
+➡️ Acesse o arquivo [`KANBAN.md`](./KANBAN.md) para visualizar:  
+- ✅ Status das etapas e tarefas  
+- ✅ Responsáveis e prazos  
+- ✅ Entregáveis finais  
+- ✅ Progresso geral do projeto  
 
 ---
 
