@@ -81,6 +81,15 @@
 
 ---
 
+## 🔖 Legenda dos Status dos Entregáveis
+
+| Símbolo | Status        | Significado                                         |
+|---------|----------------|-----------------------------------------------------|
+| `[ ]`   | **Não entregue** | O entregável ainda não foi concluído ou enviado.   |
+| `[✔]`   | **Entregue**     | O entregável foi finalizado e entregue corretamente.|
+
+---
+
 ## 📦 Entregáveis Finais
 
 - [ ] Dataset organizado e analisado
