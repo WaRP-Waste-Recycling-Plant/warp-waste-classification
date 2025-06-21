@@ -1,3 +1,13 @@
+# configuração para pasta data repositório:
+# Ignora tudo na pasta data
+data/*
+
+# Mas mantém o README.md com as instruções de download
+!data/README.md
+
+
+
+# configuração para as demais pastas do repositório:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

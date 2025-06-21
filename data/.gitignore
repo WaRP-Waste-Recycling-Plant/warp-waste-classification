@@ -1,6 +1,0 @@
-# Ignora todos os dados e subpastas
-*
-
-#  Mantém o README.md e com instruções sobre como obter os dados e o .gitignore
-!README.md
-!.gitignore
