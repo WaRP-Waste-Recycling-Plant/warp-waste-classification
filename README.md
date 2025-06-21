@@ -107,6 +107,11 @@ O dataset contém imagens categorizadas de resíduos recicláveis, incluindo pap
 - ✔️ Apresentar tabelas, gráficos e métricas.
 - ✔️ Elaborar conclusões, aprendizados e sugestões de melhorias futuras.
 
+<br>
+
+> 📄 **Nota:**  
+> O roteiro do Projeto do Bootcamp encontra-se em [`./docs/projeto-atividade-04.pdf`](./docs/projeto-atividade-04.pdf).
+
 ---
 
 ## 📌 Gestão e Progresso do Projeto
