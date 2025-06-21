@@ -164,7 +164,7 @@ E --> F[Conclusões e Entregas]
 ### 1️⃣ Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/warp-waste-classification.git
+git clone https://github.com/WaRP-Waste-Recycling-Plant/warp-waste-classification.git
 ```
 
 ### 2️⃣ Acesse a pasta do projeto:
