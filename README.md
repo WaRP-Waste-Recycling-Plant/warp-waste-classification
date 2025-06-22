@@ -60,7 +60,6 @@ O **Warp Waste Classification** é um projeto de Machine Learning que utiliza t�
 ```plaintext
 warp-waste-classification/
 ├── data/              → Dados brutos (não incluídos no GitHub)
-│   └── README.md      → Instruções sobre como obter os dados
 ├── docs/              → Documentação e apresentações
 ├── notebooks/         → Notebooks de exploração, EDA, modelagem e análise
 ├── outputs/           → Resultados, gráficos e modelos treinados

@@ -6,6 +6,11 @@ data/*
 !data/README.md
 
 
+# não versionar no github o arquivo kaggle.json
+data/kaggle.json
+tmp/.kaggle/kaggle.json
+
+
 
 # configuração para as demais pastas do repositório:
 # Byte-compiled / optimized / DLL files
