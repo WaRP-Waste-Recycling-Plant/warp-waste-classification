@@ -114,7 +114,7 @@ Faça o download diretamente do Kaggle:
   from google.colab import drive
   drive.mount('/content/drive')
 
-  # Caminho até a pasta data no seu Google Drive
+  # Caminho até a pasta data no Google Drive
   data_path = '/content/drive/MyDrive/data'
   ```
 
