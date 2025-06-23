@@ -88,27 +88,27 @@ O dataset contém imagens categorizadas de resíduos recicláveis, incluindo pap
 
 ⚠️ Os dados utilizados neste projeto **não estão armazenados neste repositório**, devido às limitações de espaço e às políticas do GitHub.
 
-### 🔗 Onde obter os dados?
-✅ **Opção 1 — Kaggle:**
-Faça o download diretamente do Kaggle: 
-🔗 [Warp Waste Recycling Plant Dataset](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)
+### 🔗 Onde obter os dados?                                                                                                                           
+✅ **Opção 1 — Kaggle:**                                                                                                
+Faça o download diretamente do Kaggle:                                                                                            
+🔗 [Warp Waste Recycling Plant Dataset](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)                                             
 
-✅ **Opção 2 — Google Drive:**
-➡️ O dataset já foi baixado do Kaggle e está disponível na pasta `/data` compartilhada no Google Drive do projeto, associado à conta:
-📧 `squadclassificacaodosresiduos@gmail.com`:
-🔗 [Google Drive - Pasta /data](https://drive.google.com/drive/folders/18jEJJAZl1Fj-ejJhinqM2gYWYpPIlFpt?usp=drive_link)
-✔️ **Importante:** Esta pasta é mantida atualizada e sincronizada pelo squad, evitando a necessidade de realizar o download manual do Kaggle.
+✅ **Opção 2 — Google Drive:**                                                  
+➡️ O dataset já foi baixado do Kaggle e está disponível na pasta `/data` compartilhada no Google Drive do projeto, associado à conta:                            
+📧 `squadclassificacaodosresiduos@gmail.com`:                                                                                            
+🔗 [Google Drive - Pasta /data](https://drive.google.com/drive/folders/18jEJJAZl1Fj-ejJhinqM2gYWYpPIlFpt?usp=drive_link)                                    
+✔️ **Importante:** Esta pasta é mantida atualizada e sincronizada pelo squad, evitando a necessidade de realizar o download manual do Kaggle.                       
 
-### 💻 Como usar os dados?
-➡️ **Trabalhando localmente (VSCode ou JupyterLab):**
-1️⃣ Baixe o dataset diretamente do Kaggle.
-2️⃣ Extraia o conteúdo na pasta local do projeto chamada `/data`.
-☑️ **Ou:** Copie a pasta `/data` diretamente do Google Drive compartilhado.
-3️⃣ Garanta que a estrutura de diretórios seja mantida para o correto funcionamento dos notebooks e scripts.
+### 💻 Como usar os dados?                                                              
+➡️ **Trabalhando localmente (VSCode ou JupyterLab):**                                                                                
+1️⃣ Baixe o dataset diretamente do Kaggle.                                                                        
+2️⃣ Extraia o conteúdo na pasta local do projeto chamada `/data`.                                                             
+☑️ **Ou:** Copie a pasta `/data` diretamente do Google Drive compartilhado.                                                              
+3️⃣ Garanta que a estrutura de diretórios seja mantida para o correto funcionamento dos notebooks e scripts.                                                     
 
-➡️ **Utilizando Google Colab:**
-✅ O ideal é montar seu Google Drive no Colab e acessar os arquivos diretamente da pasta `/data` sincronizada no Drive.
-✅ Assim, não é necessário realizar upload manual dos dados sempre que iniciar uma sessão.
+➡️ **Utilizando Google Colab:**                                                                             
+✅ O ideal é montar seu Google Drive no Colab e acessar os arquivos diretamente da pasta `/data` sincronizada no Drive.                                            
+✅ Assim, não é necessário realizar upload manual dos dados sempre que iniciar uma sessão.                                                            
   - **Exemplo de montagem no Colab:**
   ```plaintext
   from google.colab import drive
