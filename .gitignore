@@ -2,13 +2,13 @@
 # Ignora tudo na pasta data
 data/*
 
-# Mas mantém o README.md com as instruções de download
-!data/README.md
+# # Mas mantém o .gitkeep 
+!data/.gitkeep
 
 
 # não versionar no github o arquivo kaggle.json
-data/kaggle.json
-tmp/.kaggle/kaggle.json
+# data/kaggle.json
+# tmp/.kaggle/kaggle.json
 
 
 

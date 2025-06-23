@@ -20,6 +20,9 @@
 - [🎯 Objetivo](#-objetivo)
 - [🗺️ Estrutura do Projeto](#️-estrutura-do-projeto)
 - [📊 Dataset](#-dataset)
+  - [🔗 Onde obter os dados?](#-onde-obter-os-dados)
+  - [📥 Como organizar os dados?](#-como-organizar-os-dados)
+  - [⚠️ Observação](#️-observação)
 - [🔥 Atividades do Projeto](#-atividades-do-projeto)
   - [✅ **ATIV-04-ET-01 — Análise do Dataset**](#-ativ-04-et-01--análise-do-dataset)
   - [✅ **ATIV-04-ET-02 — Pesquisa de Métodos + Propostas**](#-ativ-04-et-02--pesquisa-de-métodos--propostas)
@@ -80,7 +83,25 @@ warp-waste-classification/
 **Descrição:**  
 O dataset contém imagens categorizadas de resíduos recicláveis, incluindo papel, metal, vidro, plástico, entre outros, utilizadas para treinamento, validação e teste de modelos de classificação de imagens.
 
-⚠️ As imagens não estão neste repositório. Para utilizar, faça o download no Kaggle e coloque na pasta `/data`.
+⚠️ Os dados utilizados neste projeto **não estão armazenados neste repositório**, devido às limitações de espaço e às políticas do GitHub.
+
+### 🔗 Onde obter os dados?
+
+➡️ Acesse o dataset no Kaggle:  
+🔗 [Warp Waste Recycling Plant Dataset](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)
+
+
+### 📥 Como organizar os dados?
+
+1️⃣ Faça o download dos dados no Kaggle.  
+2️⃣ Extraia os arquivos na pasta `/data`.  
+3️⃣ Mantenha a mesma estrutura de pastas e arquivos para que os notebooks e scripts funcionem corretamente.
+
+
+### ⚠️ Observação
+
+- Os arquivos desta pasta estão listadas no arquivo `.gitignore` para não ser enviada ao GitHub.  
+- Os dados são utilizados apenas localmente para execução dos notebooks e scripts.
 
 ---
 
