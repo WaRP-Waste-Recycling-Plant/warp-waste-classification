@@ -116,7 +116,6 @@ Faça o download diretamente do Kaggle:
 
   # Caminho até a pasta data no seu Google Drive
   data_path = '/content/drive/MyDrive/data'
-
   ```
 
 ### ⚠️ Observação
