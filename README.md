@@ -21,7 +21,7 @@
 - [🗺️ Estrutura do Projeto](#️-estrutura-do-projeto)
 - [📊 Dataset](#-dataset)
   - [🔗 Onde obter os dados?](#-onde-obter-os-dados)
-  - [📥 Como organizar os dados?](#-como-organizar-os-dados)
+  - [💻 Como usar os dados?](#-como-usar-os-dados)
   - [⚠️ Observação](#️-observação)
 - [🔥 Atividades do Projeto](#-atividades-do-projeto)
   - [✅ **ATIV-04-ET-01 — Análise do Dataset**](#-ativ-04-et-01--análise-do-dataset)
@@ -77,8 +77,11 @@ warp-waste-classification/
 
 ## 📊 Dataset
 
-- 📦 **Nome:** Warp Waste Recycling Plant Dataset  
-- 🔗 **Link:** [Kaggle - Warp Waste Recycling Plant Dataset](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)  
+- 📦 **Nome Dataset no Kaggle:** Warp Waste Recycling Plant Dataset  
+- 🔗 **Link Kaggle:** [Kaggle - Warp Waste Recycling Plant Dataset](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)  
+
+- 📦 **Nome da Pasta no Google Drive:** data  
+- 🔗 **Link Google Drive (Compartilhado pelo Squad):** [Google Drive - Pasta /data](https://drive.google.com/drive/folders/18jEJJAZl1Fj-ejJhinqM2gYWYpPIlFpt?usp=drive_link)  
 
 **Descrição:**  
 O dataset contém imagens categorizadas de resíduos recicláveis, incluindo papel, metal, vidro, plástico, entre outros, utilizadas para treinamento, validação e teste de modelos de classificação de imagens.
@@ -86,17 +89,38 @@ O dataset contém imagens categorizadas de resíduos recicláveis, incluindo pap
 ⚠️ Os dados utilizados neste projeto **não estão armazenados neste repositório**, devido às limitações de espaço e às políticas do GitHub.
 
 ### 🔗 Onde obter os dados?
-➡️ Acesse o dataset no Kaggle:  
+✅ **Opção 1 — Kaggle:**
+Faça o download diretamente do Kaggle: 
 🔗 [Warp Waste Recycling Plant Dataset](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)
 
-### 📥 Como organizar os dados?
-1️⃣ Faça o download dos dados no Kaggle.  
-2️⃣ Extraia os arquivos na pasta `/data`.  
-3️⃣ Mantenha a mesma estrutura de pastas e arquivos para que os notebooks e scripts funcionem corretamente.
+✅ **Opção 2 — Google Drive:**
+➡️ O dataset já foi baixado do Kaggle e está disponível na pasta `/data` compartilhada no Google Drive do projeto, associado à conta:
+📧 `squadclassificacaodosresiduos@gmail.com`:
+🔗 [Google Drive - Pasta /data](https://drive.google.com/drive/folders/18jEJJAZl1Fj-ejJhinqM2gYWYpPIlFpt?usp=drive_link)
+✔️ **Importante:** Esta pasta é mantida atualizada e sincronizada pelo squad, evitando a necessidade de realizar o download manual do Kaggle.
+
+### 💻 Como usar os dados?
+➡️ **Trabalhando localmente (VSCode ou JupyterLab):**
+1️⃣ Baixe o dataset diretamente do Kaggle.
+2️⃣ Extraia o conteúdo na pasta local do projeto chamada `/data`.
+☑️ **Ou:** Copie a pasta `/data` diretamente do Google Drive compartilhado.
+3️⃣ Garanta que a estrutura de diretórios seja mantida para o correto funcionamento dos notebooks e scripts.
+
+➡️ **Utilizando Google Colab:**
+✅ O ideal é montar seu Google Drive no Colab e acessar os arquivos diretamente da pasta `/data` sincronizada no Drive.
+✅ Assim, não é necessário realizar upload manual dos dados sempre que iniciar uma sessão.
+  - **Exemplo de montagem no Colab:**
+  ```plaintext
+  from google.colab import drive
+  drive.mount('/content/drive')
+
+  # Caminho até a pasta data no seu Google Drive
+  data_path = '/content/drive/MyDrive/data'
+
+  ```
 
 ### ⚠️ Observação
-- Os arquivos desta pasta estão listadas no arquivo `.gitignore` para não ser enviada ao GitHub.  
-- Os dados são utilizados apenas localmente para execução dos notebooks e scripts.
+- Os arquivos da pasta `data` estão listadas no arquivo `.gitignore` para não serem enviada ao GitHub.  
 
 ---
 
