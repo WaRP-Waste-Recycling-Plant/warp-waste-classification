@@ -297,6 +297,22 @@ pip install -r requirements.txt
         </a>
     </td>
     <td align="center">
+      <a href="https://www.linkedin.com/in/felipemiguel99/">
+        <img src="https://avatars.githubusercontent.com/u/140664219?v=4" width="115px;" alt="Felipe Miguel Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Felipe Miguel</b>
+         </sub>
+    <br>
+        <a href="https://github.com/fpmiguels">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/felipemiguel99/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
       <a href="https://www.linkedin.com/in/francis-lauriano-9b674a27b/">
         <img src="https://avatars.githubusercontent.com/u/130801505?v=4" width="115px;" alt="Francis Lauriano Profile Image"/><br>
       </a>
