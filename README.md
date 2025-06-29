@@ -66,7 +66,7 @@ warp-waste-classification/
 ├── docs/              → Documentação e apresentações
 ├── notebooks/         → Notebooks de exploração, EDA, modelagem e análise
 ├── outputs/           → Resultados, gráficos e modelos treinados
-├── src/               → Scripts Python (EDA, pré-processamento, modelagem)
+├── src/               → Scripts Python (pré-processamento, modelagem)
 ├── .gitignore         → Arquivos e pastas ignorados no versionamento
 ├── LICENSE            → Licença MIT
 ├── README.md          → Documentação do projeto (este arquivo)
