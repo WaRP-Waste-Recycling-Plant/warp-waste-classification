@@ -92,7 +92,7 @@
 
 ## 📦 Entregáveis Finais
 
-- [ ] Dataset organizado e analisado
+- [ ✔ ] Dataset organizado e analisado
 - [ ] Modelos implementados (baseline e modelo próprio)
 - [ ] Avaliação dos modelos (métricas e análises)
 - [ ] Documentação completa no `/docs`
